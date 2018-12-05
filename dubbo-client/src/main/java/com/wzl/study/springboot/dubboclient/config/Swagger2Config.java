@@ -33,6 +33,7 @@ public class Swagger2Config {
                 .title("springboot利用swagger构建api文档")
                 .description("简单优雅的restfun风格")
                 .version("1.0")
+                .termsOfServiceUrl("http://blog.csdn.net/penyoudi1")
                 .build();
     }
 }
